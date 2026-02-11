@@ -1,2 +1,7 @@
 # workflow-runner-internal
-ML model checkpoint storage
+
+Configuration cache for microservices architecture.
+
+## Usage
+
+Managed by the deployment automation system.
